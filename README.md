@@ -121,8 +121,4 @@ Tu peux me contacter pour toute suggestion ou amélioration !
 ## 🙌 Remerciements
 
 Merci à tous ceux qui aiment rendre leurs terminaux un peu plus vivants 💚
-```
 
----
-
-Tu veux que je t’aide à créer un badge GitHub Actions, un logo ASCII pour ton projet, ou même une version anglaise du README ?
