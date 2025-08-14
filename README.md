@@ -54,7 +54,7 @@ Aucune dépendance externe requise. Il suffit d’ajouter les fichiers `Console.
 
 ## 🧪 Exemple d’utilisation
 
-
+```cpp
 #include "Console.hpp"
 #include <iostream>
 
@@ -82,6 +82,7 @@ g++ main.cpp Console.cpp -o monProgramme
 
 Puis lancez :
 
+```bash
 ./monProgramme
 ```
 
