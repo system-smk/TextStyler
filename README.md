@@ -121,4 +121,5 @@ Tu peux me contacter pour toute suggestion ou amélioration !
 ## 🙌 Remerciements
 
 Merci à tous ceux qui aiment rendre leurs terminaux un peu plus vivants 💚
+README rédigé automatiquement par une intelligence artificielle afin d’accélérer la documentation du projet.
 
