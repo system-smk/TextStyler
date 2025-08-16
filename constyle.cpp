@@ -1,4 +1,4 @@
-#include "Console.hpp"
+#include "constyle.hpp"
 #include <iostream>
 
 void Console::rouge()     { std::cout << "\033[31m"; }
