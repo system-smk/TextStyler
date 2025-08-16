@@ -1,5 +1,5 @@
-#ifndef CONSOLE_HPP
-#define CONSOLE_HPP
+#ifndef CONSTYLE_HPP
+#define CONSTYLE_HPP
 
 #include <string>
 
