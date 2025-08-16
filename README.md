@@ -21,8 +21,8 @@ ConsoleFX est une classe C++ simple et puissante qui permet de styliser l'affich
 ```
 ConsoleFX/
 │
-├── Console.hpp       # Déclaration de la classe Console
-├── Console.cpp       # Implémentation des méthodes
+├── constyle.hpp       # Déclaration de la classe Console
+├── constyle.cpp       # Implémentation des méthodes
 └── main.cpp          # Exemple d'utilisation
 ```
 
@@ -48,14 +48,14 @@ Implémente les méthodes de la classe `Console` en utilisant `std::cout` et les
 
 ## 🛠️ Installation
 
-Aucune dépendance externe requise. Il suffit d’ajouter les fichiers `Console.hpp` et `Console.cpp` à votre projet.
+Aucune dépendance externe requise. Il suffit d’ajouter les fichiers `constyle.hpp` et `constyle.cpp` à votre projet.
 
 ---
 
 ## 🧪 Exemple d’utilisation
 
 ```cpp
-#include "Console.hpp"
+#include "constyle.hpp"
 #include <iostream>
 
 int main() {
@@ -77,7 +77,7 @@ int main() {
 Utilisez `g++` pour compiler :
 
 ```bash
-g++ main.cpp Console.cpp -o monProgramme
+g++ main.cpp constyle.cpp -o monProgramme
 ```
 
 Puis lancez :
